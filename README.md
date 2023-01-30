@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-**Ochieng23/Ochieng23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ochieng23/Ochieng23**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on being a Fullstack SE at Moringa
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT REACT SQL RUBY ON RAILS TAILWIND
+- 🔭 I’m currently a Fullstack SE.
+- 🌱  HTML CSS JAVASCRIPT REACT REACT-NATIVE vue.js SQL RUBY ON RAILS TAILWIND MOngoDB
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
